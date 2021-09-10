@@ -141,3 +141,5 @@ Tutoriel used : https://danielwilczak101.medium.com/control-a-stepper-motor-usin
 port GPIO: https://deusyss.developpez.com/tutoriels/RaspberryPi/PythonEtLeGpio/
 
 sourceforge doc: https://sourceforge.net/p/raspberry-gpio-python/wiki/Examples/ 
+
+https://projects.raspberrypi.org/en/projects/physical-computing/1#:~:text=The%20GPIO%20pins%20allow%20the,%2C%20the%20temperature%2C%20and%20light.
