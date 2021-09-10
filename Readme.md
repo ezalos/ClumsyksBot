@@ -131,3 +131,13 @@ This alimentation will allow for testing:
 [Alimentation 110/220V DC 24V 15A 360W](https://www.amazon.fr/NEWSTYLE-Convertisseur-commutation-dalimentation-informatique/dp/B0758BNMLH/)
 
 It gets 24V out and allows to get out up to 360W. Amperes seems to not matter as they are defined by the 'receiving appliance'
+
+
+# Setup
+
+Tutoriel used : https://danielwilczak101.medium.com/control-a-stepper-motor-using-python-and-a-raspberry-pi-11f67d5a8d6d 
+
+
+port GPIO: https://deusyss.developpez.com/tutoriels/RaspberryPi/PythonEtLeGpio/
+
+sourceforge doc: https://sourceforge.net/p/raspberry-gpio-python/wiki/Examples/ 
